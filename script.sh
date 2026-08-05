@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Initial data the output of command 'sudo du -sk  /*'
+# Initial data 2113 the output of command 'sudo du -sk  /*'
 #          8       /Docker
 #          0       /bin
 #          4       /boot
